@@ -21,8 +21,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*/
 
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        Adamgamesbot.pl
+// @namespace   Adamgamesbot.pl
 // @include     http://agar.io/*
 // @version     3.651
 // @grant       none
